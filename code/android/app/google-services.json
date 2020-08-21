@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "973916190272",
+    "firebase_url": "https://rural-e-commerce.firebaseio.com",
+    "project_id": "rural-e-commerce",
+    "storage_bucket": "rural-e-commerce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973916190272:android:71c8dae77ed01c231951a5",
+        "android_client_info": {
+          "package_name": "com.starkhub.rural_e_commerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "973916190272-k32s8s92nd1igpkie55qh9djl7tabpt2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.starkhub.rural_e_commerce",
+            "certificate_hash": "ef102c317e1544875df4607bb174b210aa602c4e"
+          }
+        },
+        {
+          "client_id": "973916190272-6fc6i5agibj1lun0mvfl4tcrprhr0qq5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFWQH3bvc_h7oObOeIAlax58TJmKr3ULA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "973916190272-6fc6i5agibj1lun0mvfl4tcrprhr0qq5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
