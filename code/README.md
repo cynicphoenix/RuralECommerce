@@ -1,4 +1,4 @@
-# rural_e_commerce
+# Rural E Commerce
 
 A new Flutter project.
 
